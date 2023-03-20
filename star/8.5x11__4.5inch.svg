@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="8.5in"
+   height="11in"
+   viewBox="0 0 215.9 279.4"
+   version="1.1"
+   id="svg8998"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="8.5x11__4.5inch.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview9000"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="in"
+     inkscape:zoom="0.80087682"
+     inkscape:cx="540.65742"
+     inkscape:cy="561.25984"
+     inkscape:window-width="1916"
+     inkscape:window-height="2041"
+     inkscape:window-x="3531"
+     inkscape:window-y="408"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g10140" />
+  <defs
+     id="defs8995">
+    <marker
+       id="DistanceX"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5"
+         style="stroke:#000000; stroke-width:0.5"
+         id="path9091" />
+    </marker>
+    <pattern
+       id="Hatch"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path9094" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path9096" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path9098" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE" />
+    <symbol
+       id="*PAPER_SPACE" />
+    <marker
+       id="DistanceX-6"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5"
+         style="stroke:#000000; stroke-width:0.5"
+         id="path9256" />
+    </marker>
+    <pattern
+       id="Hatch-2"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path9259" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path9261" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path9263" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE-1" />
+    <symbol
+       id="*PAPER_SPACE-5" />
+    <marker
+       id="DistanceX-7"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5"
+         style="stroke:#000000; stroke-width:0.5"
+         id="path9421" />
+    </marker>
+    <pattern
+       id="Hatch-0"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path9424" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path9426" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path9428" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE-12" />
+    <symbol
+       id="*PAPER_SPACE-9" />
+    <marker
+       id="DistanceX-2"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5"
+         style="stroke:#000000; stroke-width:0.5"
+         id="path10094" />
+    </marker>
+    <pattern
+       id="Hatch-8"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path10097" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path10099" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path10101" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE-4" />
+    <symbol
+       id="*PAPER_SPACE-8" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       inkscape:label="0"
+       id="g9467"
+       transform="matrix(0.26458333,0,0,0.26458333,43.8693,-185.64491)">
+      <g
+         inkscape:label="0"
+         id="g10140"
+         transform="translate(263.73724,-157.71011)">
+        <g
+           id="g10827"
+           transform="translate(-32.164092,83.500436)">
+          <g
+             id="g10403">
+            <g
+               id="g10272"
+               transform="rotate(90,-59.947557,811.91217)">
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 0,1122.52 H 432"
+                 id="path10108" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 30.1855,995.461 H 401.814"
+                 id="path10110" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 0,1122.52 30.1855,995.461"
+                 id="path10112" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 30.1855,995.461 49.4828,1122.52"
+                 id="path10114" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 30.1855,995.461 216,1122.52"
+                 id="path10116" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 0,868.402 30.1855,995.461"
+                 id="path10120" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 30.1855,995.461 49.4828,868.402"
+                 id="path10122" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 30.1855,995.461 216,868.402"
+                 id="path10124" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 432,868.402 401.814,995.461"
+                 id="path10126" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 401.814,995.461 382.517,868.402"
+                 id="path10128" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 401.814,995.461 216,868.402"
+                 id="path10130" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 401.814,995.461 216,1122.52"
+                 id="path10132" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 401.814,995.461 382.517,1122.52"
+                 id="path10134" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 432,1122.52 401.814,995.461"
+                 id="path10136" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 0,868.402 H 432"
+                 id="path10138" />
+            </g>
+            <g
+               id="g10272-9"
+               transform="rotate(90,-275.94756,1027.9122)">
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 0,1122.52 H 432"
+                 id="path10108-0" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 30.1855,995.461 H 401.814"
+                 id="path10110-1" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 0,1122.52 30.1855,995.461"
+                 id="path10112-0" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 30.1855,995.461 49.4828,1122.52"
+                 id="path10114-9" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 30.1855,995.461 216,1122.52"
+                 id="path10116-2" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 0,868.402 30.1855,995.461"
+                 id="path10120-5" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 30.1855,995.461 49.4828,868.402"
+                 id="path10122-0" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 30.1855,995.461 216,868.402"
+                 id="path10124-3" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 432,868.402 401.814,995.461"
+                 id="path10126-3" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 401.814,995.461 382.517,868.402"
+                 id="path10128-4" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 401.814,995.461 216,868.402"
+                 id="path10130-0" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 401.814,995.461 216,1122.52"
+                 id="path10132-8" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 401.814,995.461 382.517,1122.52"
+                 id="path10134-1" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 432,1122.52 401.814,995.461"
+                 id="path10136-3" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 0,868.402 H 432"
+                 id="path10138-7" />
+            </g>
+          </g>
+          <g
+             id="g10403-7"
+             transform="translate(254.118)">
+            <g
+               id="g10272-0"
+               transform="rotate(90,-59.947557,811.91217)">
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 0,1122.52 H 432"
+                 id="path10108-8" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 30.1855,995.461 H 401.814"
+                 id="path10110-18" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 0,1122.52 30.1855,995.461"
+                 id="path10112-9" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 30.1855,995.461 49.4828,1122.52"
+                 id="path10114-7" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 30.1855,995.461 216,1122.52"
+                 id="path10116-6" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 0,868.402 30.1855,995.461"
+                 id="path10120-1" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 30.1855,995.461 49.4828,868.402"
+                 id="path10122-8" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 30.1855,995.461 216,868.402"
+                 id="path10124-1" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 432,868.402 401.814,995.461"
+                 id="path10126-4" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 401.814,995.461 382.517,868.402"
+                 id="path10128-5" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 401.814,995.461 216,868.402"
+                 id="path10130-6" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 401.814,995.461 216,1122.52"
+                 id="path10132-86" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 401.814,995.461 382.517,1122.52"
+                 id="path10134-6" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 432,1122.52 401.814,995.461"
+                 id="path10136-4" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 0,868.402 H 432"
+                 id="path10138-4" />
+            </g>
+            <g
+               id="g10272-9-5"
+               transform="rotate(90,-275.94756,1027.9122)">
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 0,1122.52 H 432"
+                 id="path10108-0-3" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 30.1855,995.461 H 401.814"
+                 id="path10110-1-4" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 0,1122.52 30.1855,995.461"
+                 id="path10112-0-5" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 30.1855,995.461 49.4828,1122.52"
+                 id="path10114-9-9" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 30.1855,995.461 216,1122.52"
+                 id="path10116-2-1" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 0,868.402 30.1855,995.461"
+                 id="path10120-5-2" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 30.1855,995.461 49.4828,868.402"
+                 id="path10122-0-5" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 30.1855,995.461 216,868.402"
+                 id="path10124-3-8" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 432,868.402 401.814,995.461"
+                 id="path10126-3-5" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 401.814,995.461 382.517,868.402"
+                 id="path10128-4-6" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 401.814,995.461 216,868.402"
+                 id="path10130-0-0" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 401.814,995.461 216,1122.52"
+                 id="path10132-8-1" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 401.814,995.461 382.517,1122.52"
+                 id="path10134-1-8" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 432,1122.52 401.814,995.461"
+                 id="path10136-3-3" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 0,868.402 H 432"
+                 id="path10138-7-7" />
+            </g>
+          </g>
+          <g
+             id="g10403-0"
+             transform="translate(508.236)">
+            <g
+               id="g10272-8"
+               transform="rotate(90,-59.947557,811.91217)">
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 0,1122.52 H 432"
+                 id="path10108-2" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 30.1855,995.461 H 401.814"
+                 id="path10110-0" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 0,1122.52 30.1855,995.461"
+                 id="path10112-1" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 30.1855,995.461 49.4828,1122.52"
+                 id="path10114-5" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 30.1855,995.461 216,1122.52"
+                 id="path10116-9" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 0,868.402 30.1855,995.461"
+                 id="path10120-7" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 30.1855,995.461 49.4828,868.402"
+                 id="path10122-2" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 30.1855,995.461 216,868.402"
+                 id="path10124-17" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 432,868.402 401.814,995.461"
+                 id="path10126-8" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 401.814,995.461 382.517,868.402"
+                 id="path10128-48" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 401.814,995.461 216,868.402"
+                 id="path10130-61" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 401.814,995.461 216,1122.52"
+                 id="path10132-3" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 401.814,995.461 382.517,1122.52"
+                 id="path10134-2" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 432,1122.52 401.814,995.461"
+                 id="path10136-46" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 0,868.402 H 432"
+                 id="path10138-8" />
+            </g>
+            <g
+               id="g10272-9-0"
+               transform="rotate(90,-275.94756,1027.9122)">
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 0,1122.52 H 432"
+                 id="path10108-0-8" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 30.1855,995.461 H 401.814"
+                 id="path10110-1-2" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 0,1122.52 30.1855,995.461"
+                 id="path10112-0-3" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 30.1855,995.461 49.4828,1122.52"
+                 id="path10114-9-2" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 30.1855,995.461 216,1122.52"
+                 id="path10116-2-4" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 0,868.402 30.1855,995.461"
+                 id="path10120-5-4" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 30.1855,995.461 49.4828,868.402"
+                 id="path10122-0-9" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 30.1855,995.461 216,868.402"
+                 id="path10124-3-9" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 432,868.402 401.814,995.461"
+                 id="path10126-3-51" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 401.814,995.461 382.517,868.402"
+                 id="path10128-4-2" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 401.814,995.461 216,868.402"
+                 id="path10130-0-9" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 401.814,995.461 216,1122.52"
+                 id="path10132-8-8" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 401.814,995.461 382.517,1122.52"
+                 id="path10134-1-4" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 432,1122.52 401.814,995.461"
+                 id="path10136-3-1" />
+              <path
+                 style="fill:none;stroke:#000000"
+                 d="M 0,868.402 H 432"
+                 id="path10138-7-9" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
